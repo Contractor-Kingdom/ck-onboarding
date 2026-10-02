@@ -1,0 +1,11 @@
+[
+  { "niche": "roofing",     "label": "Roofing",                          "jotform_id": "253465849611162", "icon": "🏠", "active": true, "sort": 1 },
+  { "niche": "plumbing",    "label": "Plumbing",                         "jotform_id": "252027048077152", "icon": "🔧", "active": true, "sort": 2 },
+  { "niche": "hvac",        "label": "HVAC",                             "jotform_id": "250928366417161", "icon": "❄️", "active": true, "sort": 3 },
+  { "niche": "electrical",  "label": "Electrical / Solar",               "jotform_id": "262016445207147", "icon": "⚡", "active": true, "sort": 4 },
+  { "niche": "remodeling",  "label": "Remodeling / General Construction", "jotform_id": "260496329041053", "icon": "🔨", "active": true, "sort": 5 },
+  { "niche": "flooring",    "label": "Flooring",                         "jotform_id": "262435166404151", "icon": "🪵", "active": true, "sort": 6 },
+  { "niche": "concrete",    "label": "Concrete",                         "jotform_id": "253606971539164", "icon": "🧱", "active": true, "sort": 7 },
+  { "niche": "asphalt",     "label": "Asphalt",                          "jotform_id": "250186626028154", "icon": "🛣️", "active": true, "sort": 8 },
+  { "niche": "excavation",  "label": "Excavation / Earthwork",           "jotform_id": "260885575437168", "icon": "🚜", "active": true, "sort": 9 }
+]
