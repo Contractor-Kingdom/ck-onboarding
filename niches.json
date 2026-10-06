@@ -5,7 +5,7 @@
   { "niche": "electrical", "label": "Electrical / Solar",                "jotform_id": "262016445207147", "active": true, "sort": 4, "icon": "M13 2L4 14h7l-1 8 9-12h-7z" },
   { "niche": "remodeling", "label": "Remodeling / General Construction", "jotform_id": "260496329041053", "active": true, "sort": 5, "icon": "M3 21l9-9M13.5 3.5l7 7-3 3-7-7zM10.5 6.5l7 7" },
   { "niche": "flooring",   "label": "Flooring",                          "jotform_id": "262435166404151", "active": true, "sort": 6, "icon": "M3 5h18v14H3zM3 9.7h18M3 14.3h18M9 5v4.7M15 9.7v4.6M7 14.3V19" },
-  { "niche": "concrete",   "label": "Concrete",                          "jotform_id": "253606971539164", "active": true, "sort": 7, "icon": "M3 5h18v14H3zM3 12h18M9 5v7M15 12v7" },
+  { "niche": "concrete",   "label": "Concrete",                          "jotform_id": "253606971539164", "active": false, "sort": 7, "icon": "M3 5h18v14H3zM3 12h18M9 5v7M15 12v7" },
   { "niche": "asphalt",    "label": "Asphalt",                           "jotform_id": "250186626028154", "active": true, "sort": 8, "icon": "M8 3L4 21M16 3l4 18M12 4v3M12 10v3M12 16v3" },
   { "niche": "excavation", "label": "Excavation / Earthwork",            "jotform_id": "260885575437168", "active": true, "sort": 9, "icon": "M14 3l7 7M17.5 6.5L10 14M6 13l5 5-3 3a3 3 0 0 1-4-4z" }
 ]
